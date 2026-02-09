@@ -19,7 +19,7 @@
 - 🌱 I'm currently learning: **📚 React + PHP**
 - 💬 Ask me about: **💡 .NET , C# and RESTful APIs**
 - ⚡ Fun fact: **I played 12 yrs competetive icehockey**
-- 📂 Portfolio: **<a href="www.pinterbenedek.hu" target="_blank">pinterbenedek.hu</a>**
+- 📂 Portfolio: **<a href="https://www.pinterbenedek.hu" target="_blank">pinterbenedek.hu</a>**
 
  **<h3 align="left">Skills</h3>**
 
