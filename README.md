@@ -1,7 +1,3 @@
-![👋 Hi, my name is Benedek Pintér aka. Dzsepetto](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
-
-![Profile views](https://komarev.com/ghpvc/?username=GrofDzsepetto&label=Profile%20views&color=0e75b6&style=flat)
-
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
@@ -23,7 +19,7 @@
 - 🌱 I'm currently learning: **📚 React + PHP**
 - 💬 Ask me about: **💡 .NET , C# and RESTful APIs**
 - ⚡ Fun fact: **I played 12 yrs competetive icehockey**
-- 📂 Portfolio: **<a href="pinterbenedek.hu" target="_blank">pinterbenedek.hu</a>**
+- 📂 Portfolio: **<a href="www.pinterbenedek.hu" target="_blank">pinterbenedek.hu</a>**
 
  **<h3 align="left">Skills</h3>**
 
