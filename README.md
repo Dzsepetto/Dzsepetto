@@ -20,7 +20,7 @@
 - 💼 I'm currently working on: **💻 Developing a online mini games website**
 - 🌱 I'm currently learning: **📚 React + PHP**
 - 💬 Ask me about: **💡 .NET , C# and RESTful APIs**
-- ⚡ Fun fact: **I played 12 yrs competetive icehockey**
+- ⚡ Fun fact: **I played 12 yrs competitive icehockey**
 - 📂 Portfolio: **<a href="https://www.pinterbenedek.hu" target="_blank">pinterbenedek.hu</a>**
 
 
